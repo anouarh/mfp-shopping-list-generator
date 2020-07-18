@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Chicken Breast - Chicken Breast -, 8 oz",
+        "quantity": "8",
+        "unit": "oz",
+        "short_name": "Chicken Breast - Chicken Breast -",
+        "nutrition": {
+            "calories": 248.0,
+            "carbohydrates": 0.0,
+            "fat": 3.0,
+            "protein": 48.0,
+            "sodium": 144.0,
+            "sugar": 0.0
+        }
+    },
+    {
+        "name": "Apple, 165 g",
+        "quantity": "165",
+        "unit": "g",
+        "short_name": "Apple",
+        "nutrition": {
+            "calories": 86.0,
+            "carbohydrates": 23.0,
+            "fat": 0.0,
+            "protein": 0.0,
+            "sodium": 2.0,
+            "sugar": 17.0
+        }
+    },
+    {
+        "name": "Sweet potato, 180 g",
+        "quantity": "180",
+        "unit": "g",
+        "short_name": "Sweet potato",
+        "nutrition": {
+            "calories": 155.0,
+            "carbohydrates": 36.0,
+            "fat": 0.0,
+            "protein": 3.0,
+            "sodium": 99.0,
+            "sugar": 8.0
+        }
+    },
+    {
+        "name": "Lettuce, 111 g",
+        "quantity": "111",
+        "unit": "g",
+        "short_name": "Lettuce",
+        "nutrition": {
+            "calories": 17.0,
+            "carbohydrates": 3.0,
+            "fat": 0.0,
+            "protein": 2.0,
+            "sodium": 31.0,
+            "sugar": 1.0
+        }
+    },
+    {
+        "name": "Spinach, 120 g",
+        "quantity": "120",
+        "unit": "g",
+        "short_name": "Spinach",
+        "nutrition": {
+            "calories": 28.0,
+            "carbohydrates": 4.0,
+            "fat": 0.0,
+            "protein": 3.0,
+            "sodium": 95.0,
+            "sugar": 1.0
+        }
+    }
+]
