@@ -1,7 +1,6 @@
 import myfitnesspal
 import json
 
-client = myfitnesspal.Client("anouarprogs", password="Root1995.")
 day = client.get_date(2020, 7, 17)
 lunch = day.meals[0]
 snacks = day.meals[1]
