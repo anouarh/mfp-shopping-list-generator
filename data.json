@@ -1,72 +1,162 @@
 [
-    {
-        "name": "Chicken Breast - Chicken Breast -, 8 oz",
-        "quantity": "8",
-        "unit": "oz",
-        "short_name": "Chicken Breast - Chicken Breast -",
-        "nutrition": {
-            "calories": 248.0,
-            "carbohydrates": 0.0,
-            "fat": 3.0,
-            "protein": 48.0,
-            "sodium": 144.0,
-            "sugar": 0.0
-        }
-    },
-    {
-        "name": "Apple, 165 g",
-        "quantity": "165",
-        "unit": "g",
-        "short_name": "Apple",
-        "nutrition": {
-            "calories": 86.0,
-            "carbohydrates": 23.0,
-            "fat": 0.0,
-            "protein": 0.0,
-            "sodium": 2.0,
-            "sugar": 17.0
-        }
-    },
-    {
-        "name": "Sweet potato, 180 g",
-        "quantity": "180",
-        "unit": "g",
-        "short_name": "Sweet potato",
-        "nutrition": {
-            "calories": 155.0,
-            "carbohydrates": 36.0,
-            "fat": 0.0,
-            "protein": 3.0,
-            "sodium": 99.0,
-            "sugar": 8.0
-        }
-    },
-    {
-        "name": "Lettuce, 111 g",
-        "quantity": "111",
-        "unit": "g",
-        "short_name": "Lettuce",
-        "nutrition": {
-            "calories": 17.0,
-            "carbohydrates": 3.0,
-            "fat": 0.0,
-            "protein": 2.0,
-            "sodium": 31.0,
-            "sugar": 1.0
-        }
-    },
-    {
-        "name": "Spinach, 120 g",
-        "quantity": "120",
-        "unit": "g",
-        "short_name": "Spinach",
-        "nutrition": {
-            "calories": 28.0,
-            "carbohydrates": 4.0,
-            "fat": 0.0,
-            "protein": 3.0,
-            "sodium": 95.0,
-            "sugar": 1.0
-        }
-    }
+    [
+        "Red Cabbage - Red Cabbage - Raw",
+        116.0,
+        "g"
+    ],
+    [
+        "Vegetable oil - Vegetable Oil",
+        6.0,
+        "tsp(s)"
+    ],
+    [
+        "Ekmek - Whole Wheat Bread",
+        222.0,
+        "gram"
+    ],
+    [
+        "Garlic powder",
+        3.0,
+        "tsp"
+    ],
+    [
+        "Onion",
+        22.0,
+        "g"
+    ],
+    [
+        "Jaouda - Yaourt Grec",
+        1.0,
+        "container"
+    ],
+    [
+        "Tria - Cuscus",
+        35.0,
+        "gramo"
+    ],
+    [
+        "Anouar's Oatmeal Banana Bread",
+        2.0,
+        "serving(s)"
+    ],
+    [
+        "Chicken breast usda - Chicken breast",
+        42.0,
+        "oz"
+    ],
+    [
+        "Lettuce, red leaf, raw",
+        214.0,
+        "g"
+    ],
+    [
+        "Egg",
+        19.0,
+        "medium"
+    ],
+    [
+        "Nestle Nesquik W/ Vitamin Complex - Chocolate Flavour Powder (No Milk)",
+        10.0,
+        "gram"
+    ],
+    [
+        "Beef - Beef",
+        145.0,
+        "g"
+    ],
+    [
+        "Carrots - Cooked, boiled, drained, with salt",
+        47.0,
+        "g"
+    ],
+    [
+        "كامل الدسم - جبال",
+        250.0,
+        "ml"
+    ],
+    [
+        "Khayrat - Champignon",
+        156.0,
+        "gramme"
+    ],
+    [
+        "Epi D'or - Pain De Mie Complet",
+        52.0,
+        "g"
+    ],
+    [
+        "Generic - Cooked Potato",
+        116.0,
+        "gram"
+    ],
+    [
+        "Broccoli",
+        568.0,
+        "g"
+    ],
+    [
+        "Banana",
+        533.0,
+        "g"
+    ],
+    [
+        "or blanc - fromage fondu",
+        17.0,
+        "g"
+    ],
+    [
+        "Joly - Thon Entier à L'huile Végétale",
+        400.0,
+        "g"
+    ],
+    [
+        "Yellow rice - Yellow Rice",
+        21.0,
+        "tbsp(s)"
+    ],
+    [
+        "delicia - confiture",
+        8.0,
+        "g"
+    ],
+    [
+        "Apple",
+        671.0,
+        "g"
+    ],
+    [
+        "Jaouda - Fromage Frais Perly",
+        850.0,
+        "g"
+    ],
+    [
+        "Moroccan Harcha",
+        1.0,
+        "serving(s)"
+    ],
+    [
+        "Olive Oil",
+        4.0,
+        "tsp"
+    ],
+    [
+        "Tomatoes",
+        571.0,
+        "g"
+    ],
+    [
+        "Optimum - 100% Whey Protein",
+        22.0,
+        "g"
+    ],
+    [
+        "joly filets de maquereaux - à l'huile végétale",
+        91.0,
+        "g"
+    ],
+    [
+        "Generic - Beef : Sirloin Steak",
+        176.0,
+        "g"
+    ]
 ]
