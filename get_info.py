@@ -1,9 +1,7 @@
 import myfitnesspal
 
-client = myfitnesspal.Client("anouarprogs", password="Hilali1995.")
-
-
-def get_weeks_groceries(year, month, day):
+# Return week worth of groceries starting from specific date
+def get_weeks_groceries(client, year, month, day):
     # handle end of month and year
     weeks_items = []
     result_list = []
@@ -11,7 +9,7 @@ def get_weeks_groceries(year, month, day):
     total_quantity = 0
 
     for i in range(7):
-        for item in get_days_groceries(year, month, day):
+        for item in get_days_groceries(client, year, month, day):
             weeks_items.append(item)
         if day == 31:
             month += 1
@@ -47,8 +45,8 @@ def get_weeks_groceries(year, month, day):
 
     return result_list
 
-
-def get_days_groceries(year, month, day):
+# Return one day's worth of groceries
+def get_days_groceries(client, year, month, day):
     items = []
     day = client.get_date(year, month, day)
     for i in range(3):
@@ -56,7 +54,7 @@ def get_days_groceries(year, month, day):
             items.append(item)
     return items
 
-
+# Return one meal's worth of groceries
 def get_meals_groceries(meal_number, day):
     meal_groceries = []
     meal = day.meals[meal_number]

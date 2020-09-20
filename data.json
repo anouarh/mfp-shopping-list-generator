@@ -1,267 +1,162 @@
 [
     [
-        "Jaouda Milk - Milk",
-        256.0,
-        "ml"
-    ],
-    [
-        "Generic - Fresh Sardines (Fillets)",
-        446.0,
-        "g"
-    ],
-    [
-        "Pecan  nuts - Nuts",
-        15.0,
-        "g"
-    ],
-    [
-        "Nestle Nesquik W/ Vitamin Complex - Chocolate Flavour Powder (No Milk)",
-        3.0,
-        "tbsp"
-    ],
-    [
-        "Cheese, edam",
-        50.0,
-        "g"
-    ],
-    [
-        "Prune - Prune",
-        3.0,
-        "fruit"
-    ],
-    [
-        "Cherry Tomato - One Single Cherry Tomato",
-        150.0,
-        "Cherry"
-    ],
-    [
-        "Green bean",
-        240.0,
-        "g"
-    ],
-    [
-        "Lettuce",
-        726.0,
-        "g"
-    ],
-    [
-        "Kiri - Kiri",
-        1.0,
-        "carre"
-    ],
-    [
-        "Beans - Red Beans",
-        11.0,
-        "tbsp(s)"
-    ],
-    [
-        "Banana",
-        717.0,
-        "g"
-    ],
-    [
-        "Turkey breast cutlets - Turkey Breast",
-        7.0,
-        "oz"
-    ],
-    [
-        "Chicken Breast - Chicken Breast -",
-        37.5,
-        "oz"
-    ],
-    [
-        "Green peas - Green peas",
-        80.0,
-        "g"
-    ],
-    [
-        "Tortilla Fresca - Uncooked Flour Tortilla",
-        1.0,
-        "Tortilla"
-    ],
-    [
-        "Steve Phillips - Pineapple Sweet Chili Sauce",
-        2.0,
-        "Tbsp"
-    ],
-    [
-        "Jalapeno Pepper - Jalapeno Pepper (100g=7peppers)",
-        26.0,
-        "g"
-    ],
-    [
-        "Egg",
-        6.0,
-        "medium"
-    ],
-    [
-        "Pikarome - Sauce barbecue",
-        10.0,
-        "g"
-    ],
-    [
-        "extra Lait - lait frais pasteurisé homogénéisé",
-        25.0,
-        "centilitre"
-    ],
-    [
-        "(Generic) - Sunflower Seeds",
-        54.0,
-        "grams"
-    ],
-    [
-        "Emco - Oat Flakes Big Leaves",
-        50.0,
-        "g"
-    ],
-    [
-        "Vegetable oil - Vegetable Oil",
-        1.0,
-        "tbs"
-    ],
-    [
-        "Apple",
-        165.0,
-        "g"
-    ],
-    [
-        "Garlic",
-        6.0,
-        "g"
-    ],
-    [
-        "Spinach",
-        320.0,
-        "g"
-    ],
-    [
-        "olives - Olives",
-        3.0,
-        "pieces"
-    ],
-    [
-        "Optimum Nutrition - 100% Gold Standard Whey",
-        45.4,
-        "g"
-    ],
-    [
-        "White Beans - White",
-        163.0,
-        "g"
-    ],
-    [
-        "Avocado",
-        174.0,
-        "g"
-    ],
-    [
-        "Jaouda - Fromage Frais Perly",
-        595.0,
-        "g"
-    ],
-    [
-        "Onion",
-        58.0,
-        "g"
-    ],
-    [
-        "White Beans - Beans",
-        4.0,
-        "tbsp(s)"
-    ],
-    [
-        "Optimum Nutrition - Gold Standard 100% Whey ( Double Rich Chocolate)",
-        6.0,
-        "rounded"
-    ],
-    [
-        "Marrakech Tradition - Orange & Mandarine",
-        156.0,
-        "ml"
-    ],
-    [
-        "Oatmeal - Oatmeal",
-        50.0,
-        "gram"
-    ],
-    [
-        "Tomatoes",
-        124.0,
-        "g"
-    ],
-    [
-        "oleor - huile de table",
-        15.0,
-        "ml"
-    ],
-    [
-        "Nectarine - Fruit",
-        3.0,
-        "Medium"
-    ],
-    [
         "Yellow rice - Yellow Rice",
-        14.0,
+        21.0,
         "tbsp(s)"
     ],
     [
-        "Ground turkey",
-        510.0,
+        "Chicken breast usda - Chicken breast",
+        42.0,
+        "oz"
+    ],
+    [
+        "Broccoli",
+        568.0,
         "g"
     ],
     [
-        "Perly Sucré - Yaourt",
-        4.0,
-        "container"
-    ],
-    [
-        "Centrale - Lait",
-        305.0,
-        "ml"
-    ],
-    [
-        "Mae Ploy - Sweet Chili Sause",
-        2.0,
-        "tbsp"
+        "Moroccan Harcha",
+        1.0,
+        "serving(s)"
     ],
     [
         "Olive Oil",
-        1.0,
-        "tbsp"
-    ],
-    [
-        "Sweet potato",
-        685.0,
-        "g"
-    ],
-    [
-        "Garlic powder",
-        6.0,
+        4.0,
         "tsp"
     ],
     [
-        "marjane - maïs doux",
-        265.0,
-        "gramme"
+        "Nestle Nesquik W/ Vitamin Complex - Chocolate Flavour Powder (No Milk)",
+        10.0,
+        "gram"
     ],
     [
-        "Chegui - Lait Frais 15 Jours",
-        200.0,
+        "Carrots - Cooked, boiled, drained, with salt",
+        47.0,
         "g"
     ],
     [
-        "Valencia - Ananas",
+        "Tria - Cuscus",
+        35.0,
+        "gramo"
+    ],
+    [
+        "Red Cabbage - Red Cabbage - Raw",
+        116.0,
+        "g"
+    ],
+    [
+        "Jaouda - Yaourt Grec",
+        1.0,
+        "container"
+    ],
+    [
+        "Jaouda - Fromage Frais Perly",
+        850.0,
+        "g"
+    ],
+    [
+        "Generic - Cooked Potato",
+        116.0,
+        "gram"
+    ],
+    [
+        "Beef - Beef",
+        145.0,
+        "g"
+    ],
+    [
+        "or blanc - fromage fondu",
+        17.0,
+        "g"
+    ],
+    [
+        "Generic - Beef : Sirloin Steak",
+        176.0,
+        "g"
+    ],
+    [
+        "كامل الدسم - جبال",
         250.0,
         "ml"
     ],
     [
-        "Joly - Thon Entier à L'huile Végétale",
-        500.0,
+        "Banana",
+        533.0,
         "g"
     ],
     [
-        "Lentils - Brown Lentils",
-        150.0,
+        "delicia - confiture",
+        8.0,
+        "g"
+    ],
+    [
+        "Tomatoes",
+        571.0,
+        "g"
+    ],
+    [
+        "joly filets de maquereaux - à l'huile végétale",
+        91.0,
+        "g"
+    ],
+    [
+        "Epi D'or - Pain De Mie Complet",
+        52.0,
+        "g"
+    ],
+    [
+        "Garlic powder",
+        3.0,
+        "tsp"
+    ],
+    [
+        "Joly - Thon Entier à L'huile Végétale",
+        400.0,
+        "g"
+    ],
+    [
+        "Ekmek - Whole Wheat Bread",
+        222.0,
         "gram"
+    ],
+    [
+        "Lettuce, red leaf, raw",
+        214.0,
+        "g"
+    ],
+    [
+        "Khayrat - Champignon",
+        156.0,
+        "gramme"
+    ],
+    [
+        "Egg",
+        19.0,
+        "medium"
+    ],
+    [
+        "Onion",
+        22.0,
+        "g"
+    ],
+    [
+        "Anouar's Oatmeal Banana Bread",
+        2.0,
+        "serving(s)"
+    ],
+    [
+        "Apple",
+        671.0,
+        "g"
+    ],
+    [
+        "Vegetable oil - Vegetable Oil",
+        6.0,
+        "tsp(s)"
+    ],
+    [
+        "Optimum - 100% Whey Protein",
+        22.0,
+        "g"
     ]
 ]
