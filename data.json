@@ -1,8 +1,43 @@
 [
     [
-        "Yellow rice - Yellow Rice",
-        21.0,
-        "tbsp(s)"
+        "Red Cabbage - Red Cabbage - Raw",
+        116.0,
+        "g"
+    ],
+    [
+        "Vegetable oil - Vegetable Oil",
+        6.0,
+        "tsp(s)"
+    ],
+    [
+        "Ekmek - Whole Wheat Bread",
+        222.0,
+        "gram"
+    ],
+    [
+        "Garlic powder",
+        3.0,
+        "tsp"
+    ],
+    [
+        "Onion",
+        22.0,
+        "g"
+    ],
+    [
+        "Jaouda - Yaourt Grec",
+        1.0,
+        "container"
+    ],
+    [
+        "Tria - Cuscus",
+        35.0,
+        "gramo"
+    ],
+    [
+        "Anouar's Oatmeal Banana Bread",
+        2.0,
+        "serving(s)"
     ],
     [
         "Chicken breast usda - Chicken breast",
@@ -10,8 +45,88 @@
         "oz"
     ],
     [
+        "Lettuce, red leaf, raw",
+        214.0,
+        "g"
+    ],
+    [
+        "Egg",
+        19.0,
+        "medium"
+    ],
+    [
+        "Nestle Nesquik W/ Vitamin Complex - Chocolate Flavour Powder (No Milk)",
+        10.0,
+        "gram"
+    ],
+    [
+        "Beef - Beef",
+        145.0,
+        "g"
+    ],
+    [
+        "Carrots - Cooked, boiled, drained, with salt",
+        47.0,
+        "g"
+    ],
+    [
+        "كامل الدسم - جبال",
+        250.0,
+        "ml"
+    ],
+    [
+        "Khayrat - Champignon",
+        156.0,
+        "gramme"
+    ],
+    [
+        "Epi D'or - Pain De Mie Complet",
+        52.0,
+        "g"
+    ],
+    [
+        "Generic - Cooked Potato",
+        116.0,
+        "gram"
+    ],
+    [
         "Broccoli",
         568.0,
+        "g"
+    ],
+    [
+        "Banana",
+        533.0,
+        "g"
+    ],
+    [
+        "or blanc - fromage fondu",
+        17.0,
+        "g"
+    ],
+    [
+        "Joly - Thon Entier à L'huile Végétale",
+        400.0,
+        "g"
+    ],
+    [
+        "Yellow rice - Yellow Rice",
+        21.0,
+        "tbsp(s)"
+    ],
+    [
+        "delicia - confiture",
+        8.0,
+        "g"
+    ],
+    [
+        "Apple",
+        671.0,
+        "g"
+    ],
+    [
+        "Jaouda - Fromage Frais Perly",
+        850.0,
         "g"
     ],
     [
@@ -25,73 +140,13 @@
         "tsp"
     ],
     [
-        "Nestle Nesquik W/ Vitamin Complex - Chocolate Flavour Powder (No Milk)",
-        10.0,
-        "gram"
-    ],
-    [
-        "Carrots - Cooked, boiled, drained, with salt",
-        47.0,
-        "g"
-    ],
-    [
-        "Tria - Cuscus",
-        35.0,
-        "gramo"
-    ],
-    [
-        "Red Cabbage - Red Cabbage - Raw",
-        116.0,
-        "g"
-    ],
-    [
-        "Jaouda - Yaourt Grec",
-        1.0,
-        "container"
-    ],
-    [
-        "Jaouda - Fromage Frais Perly",
-        850.0,
-        "g"
-    ],
-    [
-        "Generic - Cooked Potato",
-        116.0,
-        "gram"
-    ],
-    [
-        "Beef - Beef",
-        145.0,
-        "g"
-    ],
-    [
-        "or blanc - fromage fondu",
-        17.0,
-        "g"
-    ],
-    [
-        "Generic - Beef : Sirloin Steak",
-        176.0,
-        "g"
-    ],
-    [
-        "كامل الدسم - جبال",
-        250.0,
-        "ml"
-    ],
-    [
-        "Banana",
-        533.0,
-        "g"
-    ],
-    [
-        "delicia - confiture",
-        8.0,
-        "g"
-    ],
-    [
         "Tomatoes",
         571.0,
+        "g"
+    ],
+    [
+        "Optimum - 100% Whey Protein",
+        22.0,
         "g"
     ],
     [
@@ -100,63 +155,8 @@
         "g"
     ],
     [
-        "Epi D'or - Pain De Mie Complet",
-        52.0,
-        "g"
-    ],
-    [
-        "Garlic powder",
-        3.0,
-        "tsp"
-    ],
-    [
-        "Joly - Thon Entier à L'huile Végétale",
-        400.0,
-        "g"
-    ],
-    [
-        "Ekmek - Whole Wheat Bread",
-        222.0,
-        "gram"
-    ],
-    [
-        "Lettuce, red leaf, raw",
-        214.0,
-        "g"
-    ],
-    [
-        "Khayrat - Champignon",
-        156.0,
-        "gramme"
-    ],
-    [
-        "Egg",
-        19.0,
-        "medium"
-    ],
-    [
-        "Onion",
-        22.0,
-        "g"
-    ],
-    [
-        "Anouar's Oatmeal Banana Bread",
-        2.0,
-        "serving(s)"
-    ],
-    [
-        "Apple",
-        671.0,
-        "g"
-    ],
-    [
-        "Vegetable oil - Vegetable Oil",
-        6.0,
-        "tsp(s)"
-    ],
-    [
-        "Optimum - 100% Whey Protein",
-        22.0,
+        "Generic - Beef : Sirloin Steak",
+        176.0,
         "g"
     ]
 ]

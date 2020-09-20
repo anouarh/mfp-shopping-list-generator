@@ -2,6 +2,7 @@ import getpass
 import myfitnesspal
 import get_info
 import json
+import webbrowser
 import os
 
 from myfitnesspal.exceptions import MyfitnesspalLoginError
@@ -35,8 +36,8 @@ def generate_json():
         json.dump(week_items, f, ensure_ascii=False, indent=4)
     return "data.json"
 
-def open_file(file):
-    os.startfile(file)
+def open_json_in_defaul_browser(file):
+    webbrowser.open('file://'+ os.path.realpath(file))
 
 def generate_xlsx():
     pass
@@ -44,4 +45,4 @@ def generate_xlsx():
 client = get_credentials()
 week = get_starting_day() 
 file_name = generate_json()
-open_file(file_name)
+open_json_in_defaul_browser(file_name)
