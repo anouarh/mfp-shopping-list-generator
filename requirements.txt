@@ -12,7 +12,7 @@ measurement==3.2.0
 mpmath==1.1.0
 myfitnesspal==1.16.1
 pprintpp==0.4.0
-Pygments==2.6.1
+Pygments==2.7.4
 python-dateutil==2.8.1
 pywin32-ctypes==0.2.0
 requests==2.24.0
